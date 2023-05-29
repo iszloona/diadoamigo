@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(to bottom left, black, #4E0A47);
+    background-size:cover;
+    min-height:800px;
+}
+
+.header{
+ position: fixed;
+}
+
+.texto{
+    text-align:justify;
+    color: #FFFF;
+    font-size: 120%;
+}
+
+.video{
+    margin-top: 50px;
+}
+
+.blog{
+    margin-top: 50px;
+}
